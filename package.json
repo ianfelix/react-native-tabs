@@ -1,4 +1,11 @@
 {
+  "name": "@react-native-tabs-js/expo-template",
+  "description": "Template using expo and react navigation",
+  "version": "1.0.0",
+  "author": {
+    "name": "Ian Felix",
+    "email": "ianfelix030@gmail.com"
+  },
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
@@ -23,5 +30,14 @@
     "@expo/vector-icons": "^12.0.5",
     "@react-navigation/native": "^6.0.2"
   },
-  "private": true
+  "keywords": [
+    "expo",
+    "react-native",
+    "react navigation",
+    "tab navigation"
+  ],
+  "repository": {
+    "url": "https://github.com/ianfelix/react-native-tabs"
+  },
+  "license": "MIT"
 }
