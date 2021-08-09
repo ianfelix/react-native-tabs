@@ -2,10 +2,7 @@
   "name": "@react-native-tabs-js/expo-template",
   "description": "Template using expo and react navigation",
   "version": "1.0.0",
-  "author": {
-    "name": "Ian Felix",
-    "email": "ianfelix030@gmail.com"
-  },
+  "author": "",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
     "start": "expo start",
