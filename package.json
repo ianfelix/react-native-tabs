@@ -2,6 +2,7 @@
   "name": "@react-native-tabs-js/expo-template",
   "description": "Template using expo and react navigation",
   "version": "1.0.0",
+  "private": false,
   "author": "",
   "main": "node_modules/expo/AppEntry.js",
   "scripts": {
